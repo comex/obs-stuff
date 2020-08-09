@@ -1,0 +1,19 @@
+[submodule "obs-studio"]
+	path = obs-studio
+	url = git@github.com:comex/obs-studio.git
+	branch = latency
+[submodule "srt"]
+	path = srt
+	url = git@github.com:comex/srt.git
+	branch = me
+[submodule "ffmpeg"]
+	path = ffmpeg
+	url = git@github.com:comex/FFmpeg.git
+	branch = srt-bstats
+[submodule "mpv"]
+	path = mpv
+	url = git@github.com:comex/mpv.git
+	branch = latent
+[submodule "x264"]
+	path = x264
+	url = https://code.videolan.org/videolan/x264.git
